@@ -1,7 +1,7 @@
 # Problem Set 11SC: Graph optimization
 # Example Problem: Finding shortest paths through MIT buildings
 # Name: Mohammad Ehsanul Karim
-# Collaborators: None
+# Collaborators: Rasik Hasan
 # Start: July 21, 2016; 11:41pm
 
 import string
@@ -155,6 +155,7 @@ def checkNodesExist(digraph, src, end): #Check if start and end node exists in t
 # State the optimization problem as a function to minimize
 # and the constraints
 #
+# Rasik Hasan contribution starts here:
 
 def bruteForceSearchHelper(digraph, start, end):
     """

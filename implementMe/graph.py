@@ -1,10 +1,11 @@
 # Problem Set 11SC: Graph optimization
 # Example Problem: Finding shortest paths through MIT buildings
 # Name: Mohammad Ehsanul Karim
-# Collaborators: None
+# Collaborators: Rasik Hasan
 # Start: July 12, 2016; 11:41pm
 #
 # A set of data structures to represent graphs
+
 
 class Node(object):
    def __init__(self, name):
